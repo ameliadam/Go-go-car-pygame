@@ -16,8 +16,10 @@ A -> Accelerator
 
 B -> Brake
 
+============================================================
 
-
+Referency for this game :
+Thanks to https://github.com/asishraz/game_learning
 
 ============================================================
 

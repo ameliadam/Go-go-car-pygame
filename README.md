@@ -2,6 +2,8 @@ Programs needed to run it:
 
 Python ( this game run in python version 3)
 
+============================================================
+
 Controls :
 
 Arrow Left -> left turn

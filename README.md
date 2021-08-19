@@ -1,6 +1,6 @@
-( this game run in python version 3)
+# (This game run in python version 3)
 
-The very first requirement for making this game is to install pygame in your system.
+# The very first requirement for making this game is to install pygame in your system.
 >>> pip install pygame
 
 
@@ -8,7 +8,7 @@ The very first requirement for making this game is to install pygame in your sys
 
 ============================================================
 
-Controls :
+# Controls :
 
 > Arrow Left -> left turn
 
@@ -20,21 +20,24 @@ Controls :
 
 ============================================================
 
-Referency for this game :
+# Reference that using in this project :
+
 > Thanks to https://github.com/asishraz/game_learning
 
 ============================================================
 
-Credit for assets that using in this game
+# Credit for assets that using in this game
 
-> image:
-https://pngtree.com/freepng/road-design-vector-material_40168.html
+image:
 
-https://pngtree.com/freebackground/car-cartoon-background-driving-on-city-road_974628.html
+> https://pngtree.com/freepng/road-design-vector-material_40168.html
 
-www.unluckystudio.com
+> https://pngtree.com/freebackground/car-cartoon-background-driving-on-city-road_974628.html
 
-https://pngtree.com/freepng/road-design-vector-material_40168.html
+> www.unluckystudio.com
 
-> sound : 
-https://soundimage.org/
+> https://pngtree.com/freepng/road-design-vector-material_40168.html
+
+sound : 
+
+> https://soundimage.org/

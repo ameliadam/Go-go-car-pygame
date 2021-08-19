@@ -10,24 +10,24 @@ The very first requirement for making this game is to install pygame in your sys
 
 Controls :
 
-Arrow Left -> left turn
+> Arrow Left -> left turn
 
-Arrow Right -> Right Turn
+> Arrow Right -> Right Turn
 
-A -> Accelerator
+> A -> Accelerator
 
-B -> Brake
+> B -> Brake
 
 ============================================================
 
 Referency for this game :
-Thanks to https://github.com/asishraz/game_learning
+> Thanks to https://github.com/asishraz/game_learning
 
 ============================================================
 
 Credit for assets that using in this game
 
-image:
+> image:
 https://pngtree.com/freepng/road-design-vector-material_40168.html
 
 https://pngtree.com/freebackground/car-cartoon-background-driving-on-city-road_974628.html
@@ -36,5 +36,5 @@ www.unluckystudio.com
 
 https://pngtree.com/freepng/road-design-vector-material_40168.html
 
-sound : 
+> sound : 
 https://soundimage.org/

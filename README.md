@@ -1,4 +1,4 @@
-## Go-go-car-pygame
+# Go-go-car-pygame
 
 (This game run in python version 3)
 
@@ -10,7 +10,7 @@ The very first requirement for making this game is to install pygame in your sys
 
 ============================================================
 
-# Controls :
+## Controls :
 
 > Arrow Left -> left turn
 
@@ -22,13 +22,13 @@ The very first requirement for making this game is to install pygame in your sys
 
 ============================================================
 
-# Reference that using in this project :
+## Reference that using in this project :
 
 > Thanks to https://github.com/asishraz/game_learning
 
 ============================================================
 
-# Credit for assets that using in this project :
+## Credit for assets that using in this project :
 
 image:
 

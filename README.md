@@ -1,10 +1,15 @@
 Programs needed to run it:
-Python ( version 3)
+
+Python ( this game run in python version 3)
 
 Controls :
+
 Arrow Left -> left turn
+
 Arrow Right -> Right Turn
+
 A -> Accelerator
+
 B -> Brake
 
 

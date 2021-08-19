@@ -1,6 +1,8 @@
-Programs needed to run it:
+( this game run in python version 3)
 
-Python ( this game run in python version 3)
+The very first requirement for making this game is to install pygame in your system.
+>>> pip install pygame
+
 
 ![image](https://user-images.githubusercontent.com/23730419/130020311-775a9179-944e-4b7b-a931-d26878633abd.png)
 

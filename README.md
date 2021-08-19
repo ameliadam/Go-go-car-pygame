@@ -8,7 +8,8 @@ The very first requirement for making this game is to install pygame in your sys
 
 ![image](https://user-images.githubusercontent.com/23730419/130020311-775a9179-944e-4b7b-a931-d26878633abd.png)
 
-============================================================
+
+
 
 ## Controls :
 
@@ -20,13 +21,15 @@ The very first requirement for making this game is to install pygame in your sys
 
 > B -> Brake
 
-============================================================
+
+
 
 ## Reference that using in this project :
 
 > Thanks to https://github.com/asishraz/game_learning
 
-============================================================
+
+
 
 ## Credit for assets that using in this project :
 
@@ -39,6 +42,7 @@ image:
 > www.unluckystudio.com
 
 > https://pngtree.com/freepng/road-design-vector-material_40168.html
+
 
 sound : 
 

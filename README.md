@@ -26,7 +26,7 @@ The very first requirement for making this game is to install pygame in your sys
 
 ## Reference that using in this project :
 
-> Thanks to https://github.com/asishraz/game_learning
+> Thanks to https://github.com/asishraz/game_learning :+1:
 
 
 

@@ -273,19 +273,19 @@ def countdown():
 #function for display obstacle
 def obstacle(obs_startx,obs_starty,obs):
     if obs==0:
-        obs_pic=pygame.image.load("car.png")
+        obs_pic=pygame.image.load("image/car.png")
     elif obs==1:
-        obs_pic=pygame.image.load("car1.png")
+        obs_pic=pygame.image.load("image/car1.png")
     elif obs==2:
-        obs_pic=pygame.image.load("car2.png")
+        obs_pic=pygame.image.load("image/car2.png")
     elif obs==3:
-        obs_pic=pygame.image.load("car4.png")
+        obs_pic=pygame.image.load("image/car4.png")
     elif obs==4:
-        obs_pic=pygame.image.load("car5.png")
+        obs_pic=pygame.image.load("image/car5.png")
     elif obs==5:
-        obs_pic=pygame.image.load("car6.png")
+        obs_pic=pygame.image.load("image/car6.png")
     elif obs==6:
-        obs_pic=pygame.image.load("car7.png")
+        obs_pic=pygame.image.load("image/car7.png")
     gamedisplays.blit(obs_pic,(obs_startx,obs_starty))
 
 #function for count score

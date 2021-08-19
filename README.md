@@ -1,6 +1,8 @@
-# (This game run in python version 3)
+## Go-go-car-pygame
 
-# The very first requirement for making this game is to install pygame in your system.
+(This game run in python version 3)
+
+The very first requirement for making this game is to install pygame in your system.
 >>> pip install pygame
 
 
@@ -26,7 +28,7 @@
 
 ============================================================
 
-# Credit for assets that using in this game
+# Credit for assets that using in this project :
 
 image:
 

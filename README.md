@@ -1,3 +1,17 @@
+Programs needed to run it:
+Python ( version 3)
+
+Controls :
+Arrow Left -> left turn
+Arrow Right -> Right Turn
+A -> Accelerator
+B -> Brake
+
+
+
+
+============================================================
+
 Credit for assets that using in this game
 
 image:
